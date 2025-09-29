@@ -1,0 +1,31 @@
+/* Global Reset for Responsive Design */
+html, body, #root {
+  width: 100% !important;
+  max-width: 100% !important;
+  overflow-x: hidden !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  box-sizing: border-box !important;
+}
+
+* {
+  box-sizing: border-box !important;
+}
+
+/* Override any default Vite styles */
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif !important;
+  background-color: #0f1419 !important;
+  color: #ffffff !important;
+  width: 100% !important;
+  overflow-x: hidden !important;
+}
+
+#root {
+  width: 100% !important;
+  max-width: 100% !important;
+}
