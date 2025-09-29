@@ -112,3 +112,6 @@ SportsLeague/
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
+
+## Quick View of the App
+<img width="1439" height="742" alt="Screenshot 2025-09-29 at 5 15 39 PM" src="https://github.com/user-attachments/assets/899aa958-3b68-4138-bb00-05a545ff54c0" />
